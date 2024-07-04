@@ -1,0 +1,96 @@
+# Default .NET gitignore content
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+out/
+build/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.service
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.tlog
+*.vs/
+*.vscode/
+*.njsproj
+*.sln.docstates
+*.userprefs
+*.csproj.user
+*.vbproj.user
+*.swp
+*.swo
+*.dll
+*.exe
+*.pdb
+*.cache
+*.vsp
+*.vspx
+*.sap
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.resharper
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+.DS_Store
+*.swp
+*.lock
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Include appsettings.json but ignore development version
+appsettings.json
+!appsettings.Development.json
+!appsettings.*.json
+
+# Exclude wwwroot/lib
+wwwroot/lib/
+
+# Exclude files related to your specific project
+# e.g., if using Windows Forms, you might exclude *.resx files
+# *.resx
