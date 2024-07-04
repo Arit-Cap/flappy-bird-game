@@ -1,0 +1,19 @@
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\Flappy Bird Windows Form.exe
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.abstractions.dll
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.assert.dll
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.core.dll
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.execution.desktop.dll
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.abstractions.xml
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.assert.xml
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.core.xml
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\bin\Debug\xunit.execution.desktop.xml
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\FlappyBirdGUI.csproj.AssemblyReference.cache
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\Flappy_Bird_GUI.Canvas.resources
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\FlappyBirdGUI.csproj.GenerateResource.cache
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\FlappyBirdGUI.csproj.CoreCompileInputs.cache
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\FlappyBi.C835D49F.Up2Date
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\Flappy Bird Windows Form.exe
+C:\Personal\AritGit\flappy-bird-game\FlappyBirdGUI\obj\Debug\Flappy Bird Windows Form.pdb
